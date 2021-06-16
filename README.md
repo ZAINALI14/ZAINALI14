@@ -1,4 +1,3 @@
-- 👋 Hi, I’m ZAIN ALI
 - 🌱 I’m learning Python | Django 
 - 🌱 I'm a Computer Science Student at COMSATS UNIVERSITY ISLAMABAD
 - 💞️ I’m looking to collaborate with anyone.
