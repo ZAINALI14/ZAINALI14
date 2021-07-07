@@ -96,7 +96,7 @@
 </p>
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
+AN open Source Contributor from <b>Islamabad,Pakistan<b> 💚
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zainali44.zainali44)
 
