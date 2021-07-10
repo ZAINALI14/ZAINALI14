@@ -53,7 +53,7 @@
 - 💻 Available for contribution to any Open Source Project
 - ✨ Reach me Out via [Email](mailto:zaincui5542@gmail.com)
 - 👨‍💻 My projects are available at [GitHub](github.com/zain44)
-- 📄 Portfolio <b>Comming Soon</b>.
+- 📄 [Portfolio]
 
 <!-- ### Languages & Tools
 
@@ -100,9 +100,6 @@ AN open Source Contributor from <b>Islamabad,Pakistan<b> 💚
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zainali44.zainali44)
 
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
 [COMSATS_Islamabad]:https://www.comsats.edu.pk/
+[Portfolio]:https://zainali44.github.io/zainali/
 
