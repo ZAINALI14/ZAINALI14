@@ -43,12 +43,11 @@
 
 
 
-### A Student, Developer & Designer
+### Developer & Designer
 
 
 #### About me :
 
-- 🙋‍♂️ Computer Science Student at [COMSATS_Islamabad]
 - 👉 Learning <b>Django</b>
 - 💻 Available for contribution to any Open Source Project
 - ✨ Reach me Out via [Email](mailto:zaincui5542@gmail.com)
